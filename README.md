@@ -107,7 +107,8 @@ Drill down to transaction-level details where necessary.
 
 Integration of real-time data sources (APIs, streaming datasets).
 
-Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMWQ0YzZiOTctNGU4OS00ZjRlLWFmM2YtMGJiZjMwYjE3Zjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Dashboard link: [view_dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQ0YzZiOTctNGU4OS00ZjRlLWFmM2YtMGJiZjMwYjE3Zjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 Predictive analytics using Python integration with Power BI.
 
