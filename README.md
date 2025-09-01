@@ -1,4 +1,6 @@
-# Business-Insights-360 livedashboard[https://app.powerbi.com/view?r=eyJrIjoiMWQ0YzZiOTctNGU4OS00ZjRlLWFmM2YtMGJiZjMwYjE3Zjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0783be9ee428409cc746]
+# Business-Insights-360 
+Dashboard Interaction[View dashboard[https://app.powerbi.com/view?r=eyJrIjoiMWQ0YzZiOTctNGU4OS00ZjRlLWFmM2YtMGJiZjMwYjE3Zjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0783be9ee428409cc746])
+
 
 Developed a comprehensive Business Insights 360 dashboard in Power BI using over 1 million+ rows of raw business data. The project aimed to create a centralized, interactive platform that empowers stakeholders to analyze key business metrics across multiple functions.
 📊 Project: Business Insights 360
